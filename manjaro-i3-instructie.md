@@ -36,7 +36,7 @@ Focus kan je veranderen met de toetsen,. dat gaat als volgt:
 * `Mod-;` - focus naar rechts
 * `Mod-J` - focus naar links
 * `Mod-K` - focus naar benedenu
-* 'Mod-L` - focus naar boven
+* `Mod-L` - focus naar boven
 
 Links bovenin zie je een vierkantje met een cijfer erin, dat is je huidige *workspace*. Workspace management is ook vrij simpel:
 
