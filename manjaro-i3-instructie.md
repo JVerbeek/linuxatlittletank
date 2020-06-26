@@ -19,7 +19,7 @@ standaard bepaalde programma's opstarten:
 
 * `Mod-Enter` - Terminal
 * `Mod-F2` - Firefox
-* `Mod-D' - Laat een zoekbalk in de bovenste bar zien, waar je je programma in kan typen.
+* `Mod-D` - Laat een zoekbalk in de bovenste bar zien, waar je je programma in kan typen.
 
 Als je een venster wil sluiten:
 
@@ -36,7 +36,7 @@ Focus kan je veranderen met de toetsen,. dat gaat als volgt:
 * `Mod-;` - focus naar rechts
 * `Mod-J` - focus naar links
 * `Mod-K` - focus naar benedenu
-* 'Mod-L' - focus naar boven
+* 'Mod-L` - focus naar boven
 
 Links bovenin zie je een vierkantje met een cijfer erin, dat is je huidige *workspace*. Workspace management is ook vrij simpel:
 
